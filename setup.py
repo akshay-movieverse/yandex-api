@@ -8,7 +8,7 @@ setup(
     name='yandex-api',
     version='1.0.2',
     packages=['yandex'],
-    url='https://github.com/freylis/yadisk-api',
+    url='https://github.com/akshay-movieverse/yandex-api',
     license='MIT License',
     author='Akshay Singh',
     author_email='akshayrameshwar2018@gmail.com',
